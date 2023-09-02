@@ -1,0 +1,4 @@
+com\fns\studentsmanager\StudentController.class
+com\fns\studentsmanager\App.class
+com\fns\studentsmanager\data\DbConnection.class
+module-info.class
